@@ -1,0 +1,34 @@
+table{
+	border: 2px solid #353A46;
+	background-color: #3ABAF1;
+}
+
+input[type=text], input[type=password]{
+	width: 100%;
+	padding: 8px 20px;
+	border: 2px solid #000;
+	box-sizing: border-box;
+}
+
+img{
+	width: 100px;
+	height: 100px;
+}
+
+label{
+	font-size: 20px;
+	font-weight: bold;
+	font-family: Arial;
+	text-align: center;
+	align-items: center;
+	align-content: center;
+}
+
+input[type=submit]{
+	background-color: #1C94C8;
+	color: lightblue;
+	padding: 8px 10px;
+	margin: 8px 0px;
+	cursor: pointer;
+	width: 40%;
+}
